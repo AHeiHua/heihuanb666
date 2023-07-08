@@ -11,3 +11,13 @@ icons:
       - liquor
     categories:
       - Web Application Icons
+      
+  - name:       Music
+    id:         music
+    unicode:    f001
+    created:    1.0
+    filter:
+      - note
+      - sound
+    categories:
+      - Web Application Icons
